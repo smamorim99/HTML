@@ -1,0 +1,19 @@
+header{
+    background-color: blue;
+    color: white;
+}
+
+body {
+    background-color: black;  
+} 
+h1 {
+    color: aqua;
+}
+p {
+    color: white;
+}
+a {
+    background-color: aqua;
+    color: black;
+    
+}
